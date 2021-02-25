@@ -8,3 +8,9 @@ Instrutor: Diego Fernandes - (https://github.com/diego3g) 🚀
 Aula 1 
 
 <img src= "nlw-edicao-04/images/primeira-aula.png" width= "800">
+
+-------------------------------------------------------------##---------------------------------------------------------------
+
+Aula 2
+
+<img src= "nlw-edicao-04/images/segunda-aula.png" width= "800">
