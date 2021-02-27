@@ -5,24 +5,24 @@
 
 Instrutor: Diego Fernandes - (https://github.com/diego3g) 🚀 
 
-Aula 1 
+### Aula 1 
 
-<img src= "nlw-edicao-04/images/primeira-aula.png" width= "800">
+<p align="center"><img src= "nlw-edicao-04/images/primeira-aula.png" width= "800"></p>
 
--------------------------------------------------------------##--------------------------------------------------------------
+-------------------------------------------------------------##---------------------------------------------------------------------
 
-Aula 2
+### Aula 2
 
-<img src= "nlw-edicao-04/images/segunda-aula.png" width= "800">
+<p align="center"><img src= "nlw-edicao-04/images/segunda-aula.png" width= "800"></p>
 
--------------------------------------------------------------##--------------------------------------------------------------
+-------------------------------------------------------------##---------------------------------------------------------------------
 
-Aula 3
+### Aula 3
 
-<img src= "nlw-edicao-04/images/terceira-aula.png" width= "800">
+<p align="center"><img src= "nlw-edicao-04/images/terceira-aula.png" width= "800"></p>
 
--------------------------------------------------------------##--------------------------------------------------------------
+-------------------------------------------------------------##---------------------------------------------------------------------
 
-Aula 4
+### Aula 4
 
-<img src= "nlw-edicao-04/images/quarta-aula.png" width= "800">
+<p align="center"><img src= "nlw-edicao-04/images/quarta-aula.png" width= "800"></p>
