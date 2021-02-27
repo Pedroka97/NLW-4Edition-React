@@ -20,3 +20,9 @@ Aula 2
 Aula 3
 
 <img src= "nlw-edicao-04/images/terceira-aula.png" width= "800">
+
+-------------------------------------------------------------##--------------------------------------------------------------
+
+Aula 4
+
+<img src= "nlw-edicao-04/images/quarta-aula.png" width= "800">
